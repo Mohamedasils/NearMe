@@ -234,13 +234,12 @@ various educational and extracurricular activities.
 ```
 
 ## OUTPUT
-
-![Alt text](asil/mapapp/static/map.png)
-![Alt text](2.png)
-![Alt text](3.png)
-![Alt text](4.png)
-![Alt text](5.png)
-![Alt text](6.png)
+![1](https://github.com/Mohamedasils/NearMe/assets/144870445/ab391ad5-7844-4cf0-8162-1aea01cc7ad6)
+![2](https://github.com/Mohamedasils/NearMe/assets/144870445/fa7b9cbe-3a42-41e5-b7fe-bee0b33195cd)
+![3](https://github.com/Mohamedasils/NearMe/assets/144870445/649127f0-b15b-4a25-8941-cbe80819cc35)
+![4](https://github.com/Mohamedasils/NearMe/assets/144870445/ffd3f50d-d531-429e-930c-6387cea56952)
+![5](https://github.com/Mohamedasils/NearMe/assets/144870445/46fedcfd-2575-4df9-8072-18eacb22be64)
+![6](https://github.com/Mohamedasils/NearMe/assets/144870445/1173e12e-a557-4f28-a5ed-66a8eeafffa9)
 
 
 ## RESULT
